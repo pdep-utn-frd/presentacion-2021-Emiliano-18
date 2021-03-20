@@ -1,4 +1,5 @@
 ## Hola 👋, estas son algunas cosas sobre de mi.
+
 - Me llamo Emiliano Carneiro, tengo 19 años y vivo en Campana.
 - Soy estudiantes de **Ing. en Sistemas de Informacion** (Legajo: 11734).
 - Soy muy introvertido😬.
@@ -10,3 +11,6 @@
 - Jugar Fifa.
 - Juntarme con amigos
 - Aprender a cocinar
+
+## Expectativas a futuro
+Me gustaria poder recibirme de lo que estoy estudiando, poder recorrer el mundo y lograr cumplir todas las metas que sean posibles
