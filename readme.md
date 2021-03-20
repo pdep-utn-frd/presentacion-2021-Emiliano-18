@@ -4,3 +4,7 @@
 - Soy muy introvertido😬.
 - Me gusta mucho el futbol y los animales.
 - Prefiero las series antes que las peliculas, y una serie que recomendaria seria Peaky Blinder 👌
+### Mis Pasatiempos
+- Salir a correr.
+- Jugar videojuegos.
+- Juntarme con amigos
