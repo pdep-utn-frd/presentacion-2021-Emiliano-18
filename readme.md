@@ -5,6 +5,9 @@
 - Soy muy introvertido😬.
 - Me gusta mucho el futbol y los animales.
 - Prefiero las series antes que las peliculas, y una serie que recomendaria seria Peaky Blinder 👌
+- Me gusta todo tipo de música, desde rock hasta pop/reggaetón.
+- Tengo una perra llamada Dana y cumple 10 este año
+
 
 ### Mis Pasatiempos
 - Salir a correr.
