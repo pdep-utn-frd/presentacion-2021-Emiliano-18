@@ -13,7 +13,7 @@
 - Salir a correr.
 - Jugar Fifa.
 - Juntarme con amigos
-- Aprender a cocinar
+- Aprender a cocinar, por ahora lo que mejor me salen son brownies y panes saborizados.
 
 ## Expectativas a futuro
 Me gustaria poder recibirme de lo que estoy estudiando, poder recorrer el mundo y lograr cumplir todas las metas que sean posibles
